@@ -1,30 +1,15 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+title: Publications
+permalink: /Publications/
 ---
-### Research Interest ###
 
-Large scale data visualization and analysis, High Performance computing, Scientific visualization, interactive visualization  
-<br/><br/>
-
-
-
-### Research Experience ###
-Graduate Research Associate, Department of Computer Science and Engineering, The Ohio State University, Sep 2011 ~ present
-
-Summer Research Intern, Los Alamos National Laboratory, May 2015 ~ July 2015
-
-Summer Research Intern, Argonne National Laboratory, May 2013 ~ July 2013
-
-Summer Research Intern, Pacific Northwest National Laboratory, June 2012 ~ August 2012
-
-Summer Research Intern, Pacific Northwest National Laboratory, July 2011 ~ August 2011
-
-Student Assistant, Comprehensive Cancer Center, The Ohio State University, Sep 2010 ~ June 2011
-<br/><br/>
 
 ### Publications ###
+**Kewei Lu** and Han-Wei Shen, "[Multivariate volumetric data analysis and visualization through bottom-up subspace exploration](http://ieeexplore.ieee.org/abstract/document/8031588/)", Proceedings of IEEE Pacific Visualization Symposium 2017. Seoul, South Korea, April 2017.
+
+Ko-Chih wang, **Kewei Lu**, Tzu-Hsuan Wei, Naeem Shareef and Han-Wei Shen, "[Statistical visualization and analysis of large data using a value-based spatial distribution](http://ieeexplore.ieee.org/abstract/document/8031590/)", Proceedings of IEEE Pacific Visualization Symposium 2017. Seoul, South Korea, April 2017.
+
 **Kewei Lu** and Han-Wei Shen, "[A Compact Multivariate Histogram Representation for Query-driven Visualization](http://ieeexplore.ieee.org/abstract/document/7348071/)", IEEE Symposium on Large Data Analysis and Visualization (LDAV) 2015. Chicago, IL, Oct 2015.
 [![](../img/icon/pdf.jpeg){:height="16px" width="16px"}](../papers/LDAV15.pdf)
 
@@ -39,14 +24,3 @@ Boonthanome Nouanesengsy, Teng-Yok. Lee, **Kewei Lu**, Han-Wei Shen, and Tom Pet
 Yang Xiang, **Kewei Lu**, Stephen L. James, Tara B. Borlawsky, Kun Huang, Philip R.O. Payne, "[k-neighborhood Decentralization: A Comprehensive Solution to Index the UMLS for Large Scale Knowledge Discovery](https://www.ncbi.nlm.nih.gov/pubmed/22154838)", Journal of Biomedical Informatics. 2012, Vol 45, Issue 2, pp 323-336.[![](../img/icon/pdf.jpeg){:height="16px" width="16px"}](../papers/kneighbour_2012.pdf)
 
 Jie Zhang, **Kewei Lu**, Yang Xiang, Muhtadi Islam, Shweta Kotian, Zeina Kais, Cindy Lee, Mansi Arora, Hui-wen Liu, Jeffrey D. Parvin, Kun Huang, "[Weighted Frequent Gene Co-expression Network Mining to Identify Genes Involved in Genome Stability](https://www.ncbi.nlm.nih.gov/pubmed/22956898)", PLoS Computational Biology. 2012, 8(8): e1002656.[![](../img/icon/pdf.jpeg){:height="16px" width="16px"}](../papers/weighted_geneco_2012.PDF)
-
-
-
-
-
-
-
-
-
-
-
