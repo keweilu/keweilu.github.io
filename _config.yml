@@ -24,6 +24,10 @@ configuration:
   footer_text: >
    Kewei Lu
 
+  # icons
+  email_address: lu.321@osu.edu
+  linkedin: https://www.linkedin.com/in/kewei-lu-216b433a/
+
 markdown: kramdown
 sass:
   sass_dir: _sass
