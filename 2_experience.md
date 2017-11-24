@@ -18,4 +18,3 @@ Summer Research Intern, Pacific Northwest National Laboratory, June 2012 ~ Augus
 Summer Research Intern, Pacific Northwest National Laboratory, July 2011 ~ August 2011
 
 Student Assistant, Comprehensive Cancer Center, The Ohio State University, Sep 2010 ~ June 2011
-<br/><br/>

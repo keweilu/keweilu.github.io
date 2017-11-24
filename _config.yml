@@ -17,7 +17,7 @@ imageurl: "https://source.unsplash.com/category/nature/2300x500"
 
 # Build settings
 
-theme:
+configuration:
   title: Kewei Lu
   yoursitetitle: Kewei Lu
   email_address: lu.321@osu.edu
