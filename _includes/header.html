@@ -10,11 +10,6 @@
 		<div id="et-top-navigation" data-height="66" data-fixed-height="40">
 			<nav id="top-menu-nav">
 				<ul id="top-menu" class="nav">
-					<li>
-						<a class="page-link" href="{{ site.baseurl }}/">
-							{{ site.configuration.hometitle }}
-						</a>
-					</li>
 					{% for page in site.pages %}
 					{% if page.title and page.hide != true %}
 					<li>
