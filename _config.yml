@@ -20,12 +20,12 @@ imageurl: "https://source.unsplash.com/category/nature/2300x500"
 configuration:
   title: Kewei Lu
   yoursitetitle: Kewei Lu
-  email_address: lu.321@osu.edu
+  email_address: lukewei07@gmail.com
   footer_text: >
    Kewei Lu
 
   # icons
-  email_address: lu.321@osu.edu
+  email_address: lukewei07@gmail.com
   linkedin: https://www.linkedin.com/in/kewei-lu-216b433a/
 
 markdown: kramdown
