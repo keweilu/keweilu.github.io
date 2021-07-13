@@ -12,9 +12,13 @@ permalink: /Experience/
 <br/><br/>
 
 ### The Ohio State University
-#### Graduate Research Associate, Department of Computer Science and Engineering, Sep 2011 ~ Dec 2017
+#### Graduate Research Associate, Department of Computer Science and Engineering, Sep 2011 ~ Dec 2014, June 2015 ~ Dec 2017
 
 * *Worked on analyze and visualize large scale data with statistical methods and distributed memory machine*
+
+#### Graduate Teach Associate, Department of Computer Science and Engineering, Jan 2015 ~ May 2015
+
+* *Worked as Graduate Teaching Associate for the online course [High Performance Visualization for Large-Scale Scientific Data Analytics](https://bluewaters.ncsa.illinois.edu/visualization)*
 
 #### Student Assistant, Comprehensive Cancer Center, Sep 2010 ~ June 2011
 
