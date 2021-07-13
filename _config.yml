@@ -11,7 +11,8 @@
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keweilu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-imageurl: "https://source.unsplash.com/category/nature/2300x500"
+imageurl: "https://source.unsplash.com/collection/880012/2000x500"
+
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
