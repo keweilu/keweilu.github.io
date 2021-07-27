@@ -12,6 +12,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keweilu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 imageurl: "https://source.unsplash.com/collection/880012/2000x500"
+portrait: "/assets/img/portrait.jpeg"
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -28,7 +29,34 @@ configuration:
   # icons
   email_address: lukewei07@gmail.com
   linkedin: https://www.linkedin.com/in/kewei-lu-216b433a/
+  github: https://github.com/keweilu
 
+# social icons and sharing options
+social:
+  - icon: envelope-square
+    url: lukewei07@gmail.com
+    desc:	Email
+    share_url:
+    share_title:
+    share_link:
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/kewei-lu-216b433a/
+    desc:	Linkedin
+    share_url:
+    share_title:
+    share_link:
+  - icon:	github
+    url:	https://github.com/keweilu
+    desc:	github
+    share_url:
+    share_title:
+    share_link:
+  - icon: scholar
+    url:	https://scholar.google.com/citations?user=ZU82-J0AAAAJ&hl=en
+    desc:	Google Scholar
+    share_url:
+    share_title:
+    share_link:
 markdown: kramdown
 sass:
   sass_dir: _sass
